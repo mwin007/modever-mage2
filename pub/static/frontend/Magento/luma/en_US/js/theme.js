@@ -1,0 +1,1 @@
+/vagrant/data/magento2/app/design/frontend/Magento/blank/web/js/theme.js

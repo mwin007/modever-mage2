@@ -1,0 +1,1 @@
+/vagrant/data/magento2/app/code/Magento/Customer/view/frontend/web/js/section-config.js
