@@ -2,7 +2,7 @@
 return array (
   'backend' => 
   array (
-    'frontName' => 'admin_modever',
+    'frontName' => 'admin',
   ),
   'install' => 
   array (
